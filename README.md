@@ -1,6 +1,6 @@
 # Deep-Docker
 
-A docker image with default configurations for Deep Learning tasks, including:
+**Dockerfile** for creating a docker image with default configurations for Deep Learning tasks, including:
 
 * Ubuntu 16.04
 * Nvidia CUDA 8.0 + cuDNN 6.0 ([hub](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/devel/cudnn6/Dockerfile))
@@ -50,4 +50,4 @@ A docker image with default configurations for Deep Learning tasks, including:
 * Keras
     * Version: 2.0.6
     * Theano: YES (v0.9)
-    * Tensorflow: TES (1.2.1)
+    * Tensorflow: YES (1.2.1)
