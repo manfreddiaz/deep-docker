@@ -3,7 +3,7 @@
 **Dockerfile** for creating a docker image with default configurations for Deep Learning tasks, including:
 
 * Ubuntu 16.04
-* Nvidia CUDA 8.0 + cuDNN 6.0 ([hub](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/devel/cudnn6/Dockerfile))
+* Nvidia CUDA 8.0 + cuDNN 5.0 ([hub](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/devel/cudnn6/Dockerfile))
 * Basic Tools
     * cmake
     * curl, wget
